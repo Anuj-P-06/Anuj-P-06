@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anuj-P-06&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anuj Prasad</h1>
 <div align="center">
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=700&lines=Backend-First+Full+Stack+Engineer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
+
 
 </div>
 
@@ -38,29 +43,54 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🤝 Connect with Me
 
-### 💻 Frontend
-React.js | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS
+<p align="left">
+<a href="https://linkedin.com/in/anuj-prasad-9b45b0319" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-### 🖥 Backend
-Node.js | Express.js | FastAPI | JWT | Middleware Architecture
+<a href="mailto:anujp.02003@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+</a>
 
-### 🗄 Database
-MongoDB | MySQL | PostgreSQL | Redis | SQLite | MSSQL
-
-### ⚙ Developer Tools
-Git | GitHub Actions (CI/CD) | Docker | Postman | VS Code | IntelliJ
-
-### 🔐 Core Skills
-REST API Integration  
-Authentication & Authorization  
-Secure Cookies & Rate Limiting  
-API Design & Logging  
-Deployment (Vercel / Render)  
-Version Control  
+<a href="https://github.com/Anuj-P-06">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+</p>
 
 ---
+
+## 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj-P-06&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-P-06&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🚀 Featured Projects
 
