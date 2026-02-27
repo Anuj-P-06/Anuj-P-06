@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=700&lines=Backend-First+Full+Stack+Engineer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=23&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;MERN+Stack+Specialist;Scalable+System+Builder;Authentication+%7C+API+Architecture+%7C+Security;Open+To+Software+Engineering+Roles" />
 
 
 </div>
