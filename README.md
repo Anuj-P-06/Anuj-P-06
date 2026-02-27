@@ -102,8 +102,9 @@
 
 ## 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anuj-P-06" />
+  <img src="https://streak-stats.demolab.com?user=Anuj-P-06&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ## 📫 Connect With Me
