@@ -82,23 +82,6 @@
 
 </p>
 
-## 🚀 Featured Projects
-
-### 🍽 Restaurant App (React Frontend)
-- 10+ reusable components across 5+ views  
-- Integrated 10+ backend APIs  
-- Implemented client-side routing with React Router  
-- Managed state and dynamic UI updates  
-
----
-
-### 📝 Note-Taking App
-- 10+ interactive components using React & Tailwind CSS  
-- Implemented 4+ routes with seamless navigation  
-- Connected frontend with backend APIs for CRUD operations  
-- Managed form validation and UI feedback  
-
----
 
 ## 📈 GitHub Stats
 
